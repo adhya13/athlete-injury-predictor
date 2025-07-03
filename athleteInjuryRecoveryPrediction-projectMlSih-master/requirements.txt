@@ -1,0 +1,6 @@
+sklearn
+Flask
+matplotlib
+numpy
+pip install gunicorn
+pip freeze > requirements.txt
